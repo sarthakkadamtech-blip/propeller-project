@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://rhttps://www.propelleraero.com/dirtmate/eactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
